@@ -1,0 +1,28 @@
+h1{
+    color:aqua;
+    background-color: blue;
+    text-align: center;
+    font-size: 50px;
+    width:vw;
+    height: 100px
+}
+p{
+    color:red;
+    background-color:azure;
+    font-size: 20px;
+    text-align: justify;
+    text-align-last: center;
+    text-decoration:underline ;
+    text-decoration-style: wavy;
+    text-decoration-color: green;
+    text-decoration-thickness: 1px;
+    line-height: 1.5;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+
+}
+Mark{
+    text-transform: capitalize;
+}
